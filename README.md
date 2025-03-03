@@ -1,2 +1,2 @@
 # Analyzing-Image-Representations-in-CycleGAN
-Trying to see if CycleGAN learns interesting representations of images in Im2Im translation
+CycleGAN is a cool paper that did some interesting early work in image to image translation and I want to see if the generators (which hold some similarity to autoencoders) are able to learn good representations of images.
